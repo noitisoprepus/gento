@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="gento.tests/gento.tests.csproj" />
   <Project Path="gento/gento.csproj" />
 </Solution>
